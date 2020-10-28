@@ -25,18 +25,19 @@ material/0 = null
 shape = SubResource( 3 )
 
 [node name="Crate" parent="." instance=ExtResource( 1 )]
-transform = Transform( 0.999915, 0, 0.0130721, 0, 1, 0, -0.0130721, 0, 0.999915, 0.200864, 0.0118154, -1.8464 )
+transform = Transform( 0.999915, 0, 0.0130721, 0, 1, 0, -0.0130721, 0, 0.999915, -0.389912, 0.0118154, -1.8464 )
 
 [node name="Camera" type="Camera" parent="."]
-transform = Transform( 0.999995, 0, 0.00317649, 0, 1, 0, -0.00317649, 0, 0.999995, 0, 0, 0.570871 )
+transform = Transform( 0.999995, 0, 0.00317649, 0, 1, 0, -0.00317649, 0, 0.999995, 0, 0, 0.722069 )
 
 [node name="Crate2" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.332025, 239.925, -2.7984 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0764, 239.925, -2.20762 )
 
 [node name="Crate3" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.211489, 239.925, -1.80589 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.10515, 239.925, -2.40848 )
 
 [node name="Crate4" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -0.79164 )
 
 [node name="Crate5" parent="." instance=ExtResource( 1 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.70263, 239.925, -1.85316 )
+transform = Transform( 0.648014, 0, 0.761629, 0, 1, 0, -0.761629, 0, 0.648014, 0.376866, 239.925, -0.465088 )
