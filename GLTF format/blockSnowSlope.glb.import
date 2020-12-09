@@ -11,7 +11,7 @@ dest_files=[ "res://.import/blockSnowSlope.glb-86c673bd8d7887d2e0d763b9e67590bc.
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

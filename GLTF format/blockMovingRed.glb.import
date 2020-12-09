@@ -11,7 +11,7 @@ dest_files=[ "res://.import/blockMovingRed.glb-4c7d8f885197d8f90a56737fb30a2cca.
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""
